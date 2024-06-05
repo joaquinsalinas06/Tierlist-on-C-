@@ -14,3 +14,4 @@ This project emulates a Tierlist, allowing users to create and rank entities bas
 2. Compile and run the project using a C++ compiler.
 3. Follow the on-screen prompts to specify the number and names of attributes, add entities, and input attribute values for each.
 4. Once all entities are ranked, the project will output a list of entities sorted by their mean attribute values.
+5. Disfruta ;)
