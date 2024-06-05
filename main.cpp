@@ -6,7 +6,7 @@ using namespace std;
 class Atribute{
 public:
     string name;
-    float value;
+    float value; //hola
 
     Atribute(string name, float value){
         this->name = name;
